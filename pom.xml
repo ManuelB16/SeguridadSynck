@@ -24,6 +24,11 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     </properties>
 
+         <properties>
+           <sonar.organization>manuelb16</sonar.organization>
+           <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+         </properties> 
+
     <dependencies>
         <!-- Dependencia principal para crear APIs REST -->
         <dependency>
