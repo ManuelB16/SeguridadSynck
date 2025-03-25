@@ -1,4 +1,4 @@
-# Escuela Colombiana de Ingenieria Julio Garabito
+# Escuela Colombiana de Ingenieria Julio Garavito
 
 ## Integrantes:
 ### Paula Natalia Paez Vega
