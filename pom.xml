@@ -22,12 +22,9 @@
         <java.version>22</java.version> <!-- Establece la versión de Java en 22 -->
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+        <sonar.organization>manuelb16</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
-
-         <properties>
-           <sonar.organization>manuelb16</sonar.organization>
-           <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-         </properties> 
 
     <dependencies>
         <!-- Dependencia principal para crear APIs REST -->
@@ -47,6 +44,7 @@
             <groupId>jakarta.annotation</groupId>
             <artifactId>jakarta.annotation-api</artifactId>
         </dependency>
+
         <dependency>
             <groupId>org.webjars</groupId>
             <artifactId>webjars-locator</artifactId>
